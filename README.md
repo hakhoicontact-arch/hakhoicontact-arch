@@ -17,11 +17,11 @@ I'm looking to contribute to **open-source projects** related to AI and scientif
 ### 📌 Selected Portfolio Samples
 These projects demonstrate my experience applying C++, DSA, and optimization algorithms to real-world problems:
 
-* **Smart-Course-Scheduler** - **[Link Repo Here]**
+* **Smart-Course-Scheduler** - **[Remote Control System](https://github.com/hakhoicontact-arch/Remote-Control-System)**
     * **Description:** An automated course scheduling system designed to solve a Constraint Satisfaction Problem (CSP), ensuring no time conflicts while maximizing student preferences.
     * **Key Technologies:** C++/Python, Optimization Algorithms, Search Algorithms.
 
-* **Remote Control System** - **[Link Repo Here]**
+* **Remote Control System** - **[Smart Course Scheduler](https://github.com/hakhoicontact-arch/Smart-Course-Scheduler)**
     * **Description:** Developed the software architecture for a remote control system, focusing on network/serial communication and real-time data stream processing.
     * **Key Technologies:** C++, Network Programming (TCP/UDP) or Serial Communication.
 
