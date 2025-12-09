@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi there! I'm @Hakhoi1901
+A student of Computer Science (Second-Year) at VNU HCM - University of Science.
 
-<!--
-**hakhoicontact-arch/hakhoicontact-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💡 Interests and Focus Areas
+I'm deeply interested in **Computer Science**, **Artificial Intelligence (Deep Learning, NLP)**, and **Computational Astronomy**. I thrive on challenges at the intersection of theory and high-performance implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Current Development Stack
+I'm currently mastering **C++** and **Data Structures & Algorithms (DSA)**, focusing on optimizing execution time and competitive programming methodologies.
+
+### 🤝 Seeking Collaboration On
+I'm looking to contribute to **open-source projects** related to AI and scientific computing, especially those involving numerical optimization or advanced algorithm implementation.
+
+### ✨ Highlighted Project
+* **[Link to your Repo]**: A C++ implementation of the [Name of Algorithm/Data Structure] for performance analysis.
+
+---
+
+### 📧 Get in Touch
+* **Email:** HaKhoi1901@gmail.com
+* **Pronouns:** He/Him
+
+### ⚡ Fun fact
+I can get lost in debugging but somehow enjoy the process of uncovering the logical structure 😆.
