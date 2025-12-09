@@ -1,10 +1,10 @@
 ## 👋 Hi there! I'm @Hakhoi1901
-A student of Computer Science (Second-Year) at VNU HCM - University of Science.
+A **second-year** student of Computer Science at VNU-HCM University of Science.
 
 ---
 
 ### 💡 Interests and Focus Areas
-I'm deeply interested in **Computer Science**, **Artificial Intelligence (Deep Learning, NLP)**, and **Computational Astronomy**. I thrive on challenges at the intersection of theory and high-performance implementation.
+I'm deeply interested in **Computer Science**, **Artificial Intelligence (Optimization Algorithms, Deep Learning)**, and **Computational Astronomy**. I thrive on challenges at the intersection of theory and high-performance implementation.
 
 ### 🛠️ Current Development Stack
 I'm currently mastering **C++** and **Data Structures & Algorithms (DSA)**, focusing on optimizing execution time and competitive programming methodologies.
@@ -12,8 +12,18 @@ I'm currently mastering **C++** and **Data Structures & Algorithms (DSA)**, focu
 ### 🤝 Seeking Collaboration On
 I'm looking to contribute to **open-source projects** related to AI and scientific computing, especially those involving numerical optimization or advanced algorithm implementation.
 
-### ✨ Highlighted Project
-* **[Link to your Repo]**: A C++ implementation of the [Name of Algorithm/Data Structure] for performance analysis.
+---
+
+### 📌 Selected Portfolio Samples
+These projects demonstrate my experience applying C++, DSA, and optimization algorithms to real-world problems:
+
+* **Smart-Course-Scheduler** - **[Link Repo Here]**
+    * **Description:** An automated course scheduling system designed to solve a Constraint Satisfaction Problem (CSP), ensuring no time conflicts while maximizing student preferences.
+    * **Key Technologies:** C++/Python, Optimization Algorithms, Search Algorithms.
+
+* **Remote Control System** - **[Link Repo Here]**
+    * **Description:** Developed the software architecture for a remote control system, focusing on network/serial communication and real-time data stream processing.
+    * **Key Technologies:** C++, Network Programming (TCP/UDP) or Serial Communication.
 
 ---
 
